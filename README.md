@@ -1,4 +1,4 @@
-# ntpu-dorm-visitor
+# NTPU-Dorm-Visitor
 
 ## Project setup
 ```
